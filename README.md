@@ -43,4 +43,7 @@ qui fournit plusieurs fonctionnalités qui amélioreront votre qualité pour le 
 
 ## Paiement<a name="Paiement"></a>
 
-[<img src="https://www.paypalobjects.com/webstatic/en_US/i/buttons/PP_logo_h_100x26.png" alt="PayPal Logo">](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QN7EU4MYVJW8Q&source=url) 
+|  PAYPAL 	|  KAMAS 	|
+|---	|---	|
+|5 euros| 300 000 Kamas sur tous les serveurs Retro|
+
