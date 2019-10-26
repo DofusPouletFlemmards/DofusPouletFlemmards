@@ -54,5 +54,5 @@ Contactez-moi sur Discord pour procéder au paiement.
 
 |  PAYPAL 	|  KAMAS 	|
 |---	|---	|
-|5 euros| 200 000 Kamas sur tous les serveurs Retro|
+|5 euros| 200 000 Kamas sur n'importe quel serveur Retro|
 
