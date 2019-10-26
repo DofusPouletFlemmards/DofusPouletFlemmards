@@ -44,6 +44,7 @@ qui fournit plusieurs fonctionnalités qui amélioreront votre qualité pour le 
 ## Paiement<a name="Paiement"></a>
 
 - Contactez moi sur discord pour procéder au paiement.
+  - DofusPouletFlemmards#2343
 - Par Payal ou en Kamas
 
 |  PAYPAL 	|  KAMAS 	|
