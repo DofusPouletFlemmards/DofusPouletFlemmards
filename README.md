@@ -15,7 +15,7 @@ qui fournit plusieurs fonctionnalités qui amélioreront votre qualité pour le 
 
 | Fonction    	| Raccourci     	| Description                                                                                   	|
 |-------------	|---------------	|-----------------------------------------------------------------------------------------------	|
-| Log In      	| Bouton Start  	| Connecte plusieurs comptes automatiquement                                                    	|
+| Log In      	| Bouton Start  	| Connecte tous les comptes automatiquement                                                   	|
 | Switch Tab      	| F1 	| Bascule entre les fenêtres Dofus                                                 	|
 | Move        	| Alt+LClick 	| Déplace tous les personnages à une position de la souris                                      	|
 | Join        	| CTRL+Z        	| Rejoint le combat pour tous les personnages                                                   	|
