@@ -35,7 +35,7 @@ qui fournit plusieurs fonctionnalités qui amélioreront votre qualité pour le 
 
 |  ACCOUNT 	|  AUTO 	|
 |---	|---	|
-|  ![1](https://i.imgur.com/iBy4Pgb.png)|   ![1](https://imgur.com/a/n7Y9Q4ls.png)|
+|  ![1](https://i.imgur.com/iBy4Pgb.png)|   ![1](https://i.imgur.com/Zvb01ei.png.png)|
 
 
 ## Vidéo
