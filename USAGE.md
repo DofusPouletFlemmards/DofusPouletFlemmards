@@ -112,8 +112,8 @@ ___
 
 ___
 
-### L'HIVER APPROCHE...  
-### COMMENT GARDER UNE MAIN AU CHAUD SOUS LES FESSES TOUT EN JOUANT HIHI <a name="tips"></a>
+### L'HIVER APPROCHE...  <a name="tips"></a>
+### COMMENT GARDER UNE MAIN AU CHAUD SOUS LES FESSES TOUT EN JOUANT HIHI 
 
 Si vous avez une souris avec des boutons programmables, attribuez chaque fonction à un bouton.
 
