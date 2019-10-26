@@ -43,11 +43,11 @@ qui fournit plusieurs fonctionnalités qui amélioreront votre qualité pour le 
 
 ## Paiement<a name="Paiement"></a>
 
-Contactez moi sur discord pour procéder au paiement.
+Contactez-moi sur discord pour procéder au paiement.
   1. Rejoindre le serveur discord [CLIQUER ICI POUR REJOINDRE](https://discord.gg/B9xSGG2)
-  2. Ensuite envoyez un message à DofusPouletFlemmards#2343
+  2. Ensuite, envoyez un message à DofusPouletFlemmards#2343
 
-> Ne vous faites pas avoir par des imposteurs, Veuillez a bien vérifier le numéro d'identifiant sur Discord : #23434
+> Ne vous faites pas avoir par des imposteurs, veuillez a bien vérifier le numéro d'identifiant sur Discord : #23434
 
 - MOYENS DE PAIEMENT : **Payal** ou en **Kamas**
 
