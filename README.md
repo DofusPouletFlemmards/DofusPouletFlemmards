@@ -39,7 +39,7 @@ qui fournit plusieurs fonctionnalités qui amélioreront votre qualité pour le 
 
 
 ## Vidéo
-<a href="https://www.youtube.com/watch?v=K9sNDSsyJVM" target="_blank">![](https://i.imgur.com/Zvb01ei.png)</a>
+<a href="https://www.youtube.com/watch?v=K9sNDSsyJVM" target="_blank">![](https://i.imgur.com/dM4nyeg.png)</a>
 
 ## Paiement<a name="Paiement"></a>
 
