@@ -21,10 +21,10 @@ qui fournit plusieurs fonctionnalités qui amélioreront votre qualité pour le 
 | Join        	| CTRL+Z        	| Rejoint le combat pour tous les personnages                                                   	|
 | Ready       	| CTRL+R        	| Met prêt tous les personnages                                                                 	|
 | Escape      	| CTRL+E        	| Enlève le résultat du combat pour tous les personnages                                        	|
-| Pairing     	| ALT+&         	| Association des personnages aux fenêtres Dofus <br/> **Nécessaire à l'utilisation de l'auto Switch/Invite**                                                	|
+| Pairing     	| ALT+&         	| Association des personnages aux fenêtres Dofus <br/> _**Nécessaire à l'utilisation de l'auto Switch/Invite**_                                                	|
 | Invite     	| ALT+é         	| Invite tous les personnages dans un groupe  	|
 | Auto Switch	(ON/OFF) | ALT+Q       	| Change de fenêtre automatiquement au tour du personnage                                       	|
-| Auto Skip (ON/OFF) 	| ALT+S         	| Skip automatiquement au tour du personnage <br/> **Auto Switch doit être activé**              	|
+| Auto Skip (ON/OFF) 	| ALT+S         	| Skip automatiquement au tour du personnage <br/> _**Auto Switch doit être activé**_             	|
 
 
 ## Instructions d'utilisation
