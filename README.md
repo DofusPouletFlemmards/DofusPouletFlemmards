@@ -46,6 +46,7 @@ qui fournit plusieurs fonctionnalités qui amélioreront votre qualité pour le 
 Contactez-moi sur discord pour procéder au paiement.
   1. Rejoindre le serveur discord [CLIQUER ICI POUR REJOINDRE](https://discord.gg/B9xSGG2)
   2. Ensuite, envoyez un message à DofusPouletFlemmards#2343
+  3. Une fois le paiement/kamas reçu, je vous envoie le programme
 
 > Ne vous faites pas avoir par des imposteurs, veuillez a bien vérifier le numéro d'identifiant sur Discord : #23434
 
