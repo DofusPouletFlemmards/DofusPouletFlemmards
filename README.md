@@ -17,7 +17,7 @@ qui fournit plusieurs fonctionnalités qui amélioreront votre qualité pour le 
 |-------------	|---------------	|-----------------------------------------------------------------------------------------------	|
 | Log In      	| Bouton Start  	| Connecte plusieurs comptes en même temps                                                      	|
 | Switch Tab      	| F1 	| Bascule entre les fenêtres                                                      	|
-| Move        	| Ctrl+LClick 	| Déplace tous les personnages à une position de la souris                                      	|
+| Move        	| Alt+LClick 	| Déplace tous les personnages à une position de la souris                                      	|
 | Join        	| CTRL+Z        	| Rejoint le combat pour tous les personnages                                                   	|
 | Ready       	| CTRL+R        	| Met prêt tous les personnages                                                                 	|
 | Escape      	| CTRL+E        	| Enlève le résultat du combat pour tous les personnages                                        	|
