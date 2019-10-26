@@ -2,7 +2,7 @@
 
 # CONFIGURATION
 
-[ [ACCUEIL](README.md) ] - [LES RACCOURCIS](#raccourcis) ] - [ [AUTO LOG IN](#autologin) ] - [ [PAIRING](#pairing) ] - [ [AUTO SWITCH](#autoswitch) ] - 
+[ [ACCUEIL](README.md) ] -[ [LES RACCOURCIS](#raccourcis) ] - [ [AUTO LOG IN](#autologin) ] - [ [PAIRING](#pairing) ] - [ [AUTO SWITCH](#autoswitch) ] - 
 [ [AUTO READY](#autoready) ] -  [ [AUTO SKIP](#autoskip) ] -  [ [TIPS](#tips) ] 
 
 ### Les raccourcis<a name="raccourcis"></a>
