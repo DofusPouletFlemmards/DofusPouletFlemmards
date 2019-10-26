@@ -3,7 +3,7 @@
 # CONFIGURATION
 
 [ [ACCUEIL](README.md) ] - [LES RACCOURCIS](#raccourcis) ] - [ [AUTO LOG IN](#autologin) ] - [ [PAIRING](#pairing) ] - [ [AUTO SWITCH](#autoswitch) ] - 
-[ [AUTO READY](#autoready) ] 
+[ [AUTO READY](#autoready) ] -  [ [TIPS](#tips) ] 
 
 ### Les raccourcis<a name="raccourcis"></a>
 
@@ -103,4 +103,10 @@ Avec **Impr Ecran**
 ![1](https://i.imgur.com/ue8pKTs.png)
 
 **/!\ En défi, la position du bouton Prêt correspond au bouton "Annuler"**
+
+### L'HIVER APPROCHE, COMMENT GARDER UNE MAIN AU CHAUD SOUS LES FESSES <a name="tips"></a>
+
+Si vous avez une souris avec des boutons programmables, attribuez chaque fonction à un bouton.
+
+![1](https://imgur.com/Fsgapak.png)
 
