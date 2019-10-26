@@ -48,7 +48,7 @@ Contactez-moi sur discord pour procéder au paiement.
   2. Ensuite, envoyez un message à DofusPouletFlemmards#2343
   3. Une fois le paiement/kamas reçu, je vous envoie le programme
 
-> Ne vous faites pas avoir par des imposteurs, veuillez a bien vérifier le numéro d'identifiant sur Discord : #23434
+> Ne vous faites pas avoir par des imposteurs, veuillez à bien vérifier le numéro d'identifiant sur Discord : #23434
 
 - MOYENS DE PAIEMENT : **Payal** ou en **Kamas**
 
