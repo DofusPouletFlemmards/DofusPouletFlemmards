@@ -63,6 +63,8 @@ ___
 
 ![1](https://i.imgur.com/WabGtYn.png)
 
+___
+
 ### Auto Switch<a name="autoswitch"></a>
 
 - Connectez tous vos personnages, lancez un défi et rejoignez avec tout vos personnages
@@ -110,7 +112,7 @@ ___
 
 ___
 
-### L'HIVER APPROCHE, COMMENT GARDER UNE MAIN AU CHAUD SOUS LES FESSES <a name="tips"></a>
+### L'HIVER APPROCHE, COMMENT GARDER UNE MAIN AU CHAUD SOUS LES FESSES TOUT EN JOUANT HIHI <a name="tips"></a>
 
 Si vous avez une souris avec des boutons programmables, attribuez chaque fonction à un bouton.
 
