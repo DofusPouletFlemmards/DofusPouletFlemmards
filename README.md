@@ -44,7 +44,8 @@ qui fournit plusieurs fonctionnalités qui amélioreront votre qualité pour le 
 ## Paiement<a name="Paiement"></a>
 
 - Contactez moi sur discord pour procéder au paiement.
-  - DofusPouletFlemmards#2343
+  1) Rejoindre le serveur discord - [DISCORD](https://discord.gg/B9xSGG2)
+  2) DofusPouletFlemmards#2343
   
 > Ne vous faites pas avoir par des imposteurs, Veuillez a bien vérifier le numéro d'identifiant sur Discord : #23434
 
