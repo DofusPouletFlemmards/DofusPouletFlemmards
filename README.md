@@ -53,5 +53,5 @@ qui fournit plusieurs fonctionnalités qui amélioreront votre qualité pour le 
 
 |  PAYPAL 	|  KAMAS 	|
 |---	|---	|
-|5 euros| 300 000 Kamas sur tous les serveurs Retro|
+|5 euros| 200 000 Kamas sur tous les serveurs Retro|
 
