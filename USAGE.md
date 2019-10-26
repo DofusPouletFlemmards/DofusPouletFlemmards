@@ -30,7 +30,7 @@ Pour plus d'information sur les raccourcis voir :
 https://www.autohotkey.com/docs/Hotkeys.htm  
 https://www.autohotkey.com/docs/KeyList.htm#mouse-general  
 
-/!\ Je déconseille CTRL + Clic comme raccourci, sur Dofus Ctrl+Clic vous permet de transférer un stack d'item.
+> /!\ Je déconseille CTRL + Clic comme raccourci, sur Dofus Ctrl+Clic vous permet de transférer un stack d'item.
 Vous pouvez utilisez CTRL + Clic si et seulement si vous comptez utiliser l'auto CtrlClicker ce que je fais personnellement (par défaut : Alt+C)
 
 
