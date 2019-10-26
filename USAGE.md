@@ -112,7 +112,7 @@ ___
 
 ### Auto Skip<a name="autoskip"></a>
 
-- Attribuez "Skip Key" la touche que vous avez pour skip sur Dofus 
+- Attribuez **Skip Key"** la touche que vous avez pour skip sur Dofus 
 
 ![1](https://i.imgur.com/yigvyog.png)
 
