@@ -3,7 +3,7 @@
 # CONFIGURATION
 
 [ [ACCUEIL](README.md) ] - [LES RACCOURCIS](#raccourcis) ] - [ [AUTO LOG IN](#autologin) ] - [ [PAIRING](#pairing) ] - [ [AUTO SWITCH](#autoswitch) ] - 
-[ [AUTO READY](#autoready) ] -  [ [TIPS](#tips) ] 
+[ [AUTO READY](#autoready) ] -  [ [AUTO SKIP](#autoskip) ] -  [ [TIPS](#tips) ] 
 
 ### Les raccourcis<a name="raccourcis"></a>
 
@@ -109,6 +109,12 @@ ___
 ![1](https://i.imgur.com/ue8pKTs.png)
 
 **/!\ En défi, la position du bouton Prêt correspond au bouton "Annuler"**
+
+### Auto Skip<a name="autoskip"></a>
+
+- Attribuez "Skip Key" la touche que vous avez pour skip sur Dofus 
+
+![1](https://i.imgur.com/yigvyog.png)
 
 ___
 
