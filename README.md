@@ -43,6 +43,8 @@ qui fournit plusieurs fonctionnalités qui amélioreront votre qualité pour le 
 
 ## Paiement<a name="Paiement"></a>
 
+- Par Payal ou en Kamas
+
 |  PAYPAL 	|  KAMAS 	|
 |---	|---	|
 |5 euros| 300 000 Kamas sur tous les serveurs Retro|
