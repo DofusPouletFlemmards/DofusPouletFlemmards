@@ -23,8 +23,8 @@ qui fournit plusieurs fonctionnalités qui amélioreront votre qualité pour le 
 | Escape      	| CTRL+E        	| Enlève le résultat du combat pour tous les personnages                                        	|
 | Pairing     	| ALT+&         	| Association des personnages aux fenêtres Dofus <br/> **Nécessaire à l'utilisation de l'auto Switch/Invite**                                                	|
 | Invite     	| ALT+é         	| Invite tous les personnages dans un groupe  	|
-| Auto Switch	| ALT+Q       	| Change de fenêtre automatiquement au tour du personnage                                       	|
-| Auto Skip  	| ALT+S         	| Skip automatiquement au tour du personnage <br/> **Auto Switch doit être activé**              	|
+| Auto Switch	(ON/OFF) | ALT+Q       	| Change de fenêtre automatiquement au tour du personnage                                       	|
+| Auto Skip (ON/OFF) 	| ALT+S         	| Skip automatiquement au tour du personnage <br/> **Auto Switch doit être activé**              	|
 
 
 ## Instructions d'utilisation
