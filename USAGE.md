@@ -55,6 +55,8 @@ Votre fichier doit être de ce format-là :
 
 _**(OPTIONNEL)**_ Pour faciliter la tâche, cochez " Keep Gui on top" cela permettra de garder DofusPouletFlemmards toujours au-dessus de n'importe quelle fenêtre 
 
+___
+
 ### Pairing -> IMPORTANT si vous souhaitez utiliser AutoSwitch et Invite <a name="pairing"></a>
 
 - Sur DofusPouletFlemmards : Appuyez sur le bouton Chat Pos [(X,Y)] et cliquer sur n'importe quel endroit du chat Dofus
@@ -95,6 +97,8 @@ Avec **Impr Ecran**
 - Enregistrer l'image dans **\Documents\DofusPourLesFlemmards\Screenshots**, le nom de l'image doit être **identique** au nom de votre personnage. 
 - Répeter la manipulation pour tous les personnages
 
+___
+
 ### Auto Ready<a name="autoready"></a>
 
 - Lancez un défi, ou combat
@@ -103,6 +107,8 @@ Avec **Impr Ecran**
 ![1](https://i.imgur.com/ue8pKTs.png)
 
 **/!\ En défi, la position du bouton Prêt correspond au bouton "Annuler"**
+
+___
 
 ### L'HIVER APPROCHE, COMMENT GARDER UNE MAIN AU CHAUD SOUS LES FESSES <a name="tips"></a>
 
