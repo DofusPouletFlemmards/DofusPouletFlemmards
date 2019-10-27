@@ -5,7 +5,7 @@
 [ [HOME](README.md) ] - [ [SHORTCUTS](#raccourcis) ] - [ [AUTO LOG IN](#autologin) ] - [ [PAIRING](#pairing) ] - [ [AUTO SWITCH](#autoswitch) ] - 
 [ [AUTO READY](#autoready) ] -  [ [AUTO SKIP](#autoskip) ] -  [ [TIPS](#tips) ] 
 
-### Les raccourcis<a name="raccourcis"></a>
+## Les raccourcis<a name="raccourcis"></a>
 
 Vous pouvez modifier les raccourcis par défaut sur DofusPouletFlemmards.
 Il n'est pas possible d'ajouter les fonctions de la souris (Clic, molette) ou la touche TAB depuis l'interface DFP, il faut éditer le fichier.
@@ -41,7 +41,7 @@ https://www.autohotkey.com/docs/KeyList.htm#mouse-general
 Vous pouvez utilisez CTRL + Clic si et seulement si vous comptez utiliser l'auto CtrlClicker ce que je fais personnellement (par défaut : Alt+C)
 
 
-### Auto Log In<a name="autologin"></a>
+## Auto Log In<a name="autologin"></a>
 
 > /!\ Si vous n'utilisez pas l'auto Log In pour vous connectez et que vous utilisez le launcher Ankama      
 >Vérifier que Dofus est en 32bits, DofusPouletFlemmards ne marche pas sur la version 64bit 
@@ -64,7 +64,7 @@ _**(OPTIONNEL)**_ Pour faciliter la tâche, cochez " Keep Gui on top" cela perme
 
 ___
 
-### Pairing -> IMPORTANT si vous souhaitez utiliser AutoSwitch et Invite <a name="pairing"></a>
+## Pairing -> IMPORTANT si vous souhaitez utiliser AutoSwitch et Invite <a name="pairing"></a>
 
 - Sur DofusPouletFlemmards : Appuyez sur le bouton Chat Pos [(X,Y)] et cliquer sur n'importe quel endroit du chat Dofus
 
@@ -72,7 +72,7 @@ ___
 
 ___
 
-### Auto Switch<a name="autoswitch"></a> ou en VIDEO >[CLICK ICI !](https://www.youtube.com/watch?v=C-uG38r7FlI)<
+## Auto Switch<a name="autoswitch"></a> ou en VIDEO >[CLICK ICI !](https://www.youtube.com/watch?v=C-uG38r7FlI)<
 
 
 - Connectez tous vos personnages, lancez un défi et rejoignez avec tout vos personnages
