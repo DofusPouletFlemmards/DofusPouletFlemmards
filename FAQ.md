@@ -7,9 +7,9 @@
 
 > 1.29 et RETRO en 32bit 
 
-#### [1. DFP, pour quel système d'exploitation ?](#nr1) ####
+#### [1. DofusPouletFlemmards, pour quel système d'exploitation ?](#nr1) ####
 
-> Windows seulement, AHK n'existe pas sur AHK
+> Windows seulement, AHK n'existe pas sur MAC
 
 
 #### [3. Mon PC à du mal a tourner X Dofus, puis je faire tourner DofusPouletFlemmards ?](#nr1) ####
