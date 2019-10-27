@@ -16,7 +16,7 @@ Il n'est pas possible d'ajouter les fonctions de la souris (Clic, molette) depui
 - Rechercher la fonction que vous souhaitez changer dans [AUTO] et attribuer la combinaison de touche que vous voulez
 - Et relancer le programme ( par défaut : Alt + & ou quitter et relancer)
 
-**Exemple**
+**Exemple AutoMoveKey**
 
 | CTRL + CLIC GAUCHE                 	| ALT + CLIC GAUCHE                  	| Molette haut        	|
 |------------------------------------	|------------------------------------	|---------------------	|
@@ -25,6 +25,13 @@ Il n'est pas possible d'ajouter les fonctions de la souris (Clic, molette) depui
 | LButton : Clic gauche de la souris 	| LButton : Clic gauche de la souris 	|                     	|
 
 Sur DofusPouletFlemmards, la combinaison apparaitra comme " Ctrl + " mais ne vous inquiétez pas, la fonction est bien définie pour Ctrl + Clic ou molette 
+
+**Exemple 2 - Switch Tab**
+
+| TAB                	| 
+|------------------------------------	|
+| SwitchTabKey=TAB               	|
+
 
 Pour plus d'information sur les raccourcis voir :   
 https://www.autohotkey.com/docs/Hotkeys.htm  
