@@ -42,7 +42,7 @@ Pss : Vous pouvez mettre **TAB** à la place de **F1** , c'est beaucoup plus pra
 
 ## Vidéo
 
-<a href="https://www.youtube.com/watch?v=K9sNDSsyJVM" target="_blank">![](<img src="https://i.imgur.com/dM4nyeg.png" width="100" height="100">)</a>
+<a href="https://www.youtube.com/watch?v=K9sNDSsyJVM" target="_blank">![](https://i.imgur.com/A6lRVl1.png)</a>
 ## Paiement<a name="Paiement"></a>
 
 Contactez-moi sur Discord pour procéder au paiement.
