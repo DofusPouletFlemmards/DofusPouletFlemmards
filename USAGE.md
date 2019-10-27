@@ -26,7 +26,7 @@ Il n'est pas possible d'ajouter les fonctions de la souris (Clic, molette) depui
 
 Sur DofusPouletFlemmards, la combinaison apparaitra comme " Ctrl + " mais ne vous inquiétez pas, la fonction est bien définie pour Ctrl + Clic ou molette 
 
-**Exemple 2 - Switch Tab**
+**Exemple 2 - Switch Tab**<a name="tab"></a>
 
 | TAB                	| 
 |------------------------------------	|
