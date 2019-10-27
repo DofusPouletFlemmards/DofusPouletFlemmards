@@ -2,7 +2,7 @@
 
 # CONFIGURATION
 
-[ [ACCUEIL](README.md) ] - [ [LES RACCOURCIS](#raccourcis) ] - [ [AUTO LOG IN](#autologin) ] - [ [PAIRING](#pairing) ] - [ [AUTO SWITCH](#autoswitch) ] - 
+[ [HOME](README.md) ] - [ [SHORTCUTS](#raccourcis) ] - [ [AUTO LOG IN](#autologin) ] - [ [PAIRING](#pairing) ] - [ [AUTO SWITCH](#autoswitch) ] - 
 [ [AUTO READY](#autoready) ] -  [ [AUTO SKIP](#autoskip) ] -  [ [TIPS](#tips) ] 
 
 ### Les raccourcis<a name="raccourcis"></a>
@@ -13,7 +13,7 @@ Il n'est pas possible d'ajouter les fonctions de la souris (Clic, molette) depui
 
 - Ouvrir **DofusPouletFlemmards**, catégorie **AUTO**
 - **EDIT FILE**
-- Rechercher la fonction que vous souhaitez changer dans AUTO et saisir la combinaison de touche que vous voulez
+- Rechercher la fonction que vous souhaitez changer dans [AUTO] et attribuer la combinaison de touche que vous voulez
 - Et relancer le programme ( par défaut : Alt + & ou quitter et relancer)
 
 **Exemple**
@@ -112,7 +112,7 @@ ___
 
 ### Auto Skip<a name="autoskip"></a>
 
-- Attribuez **Skip Key** la touche que vous avez pour skip sur Dofus 
+- Attribuez **Skip Key** à la touche que vous avez pour skip sur Dofus 
 
 ![1](https://i.imgur.com/yigvyog.png)
 
