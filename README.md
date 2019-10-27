@@ -5,7 +5,7 @@
 
 
 **DofusPouletFlemmard** est un script AutoHotkey  
-qui fournit plusieurs fonctionnalités qui amélioreront votre qualité pour le multicompte sur **Dofus Retro/1.29**
+qui fournit plusieurs fonctionnalités qui amélioreront votre qualité de vie pour le multicompte sur **Dofus Retro/1.29**
 
 <p align="center">  <b> [ JOUEZ COMME SI VOUS ÉTIEZ EN MONOCOMPTE ]</b> </p>
 
