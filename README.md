@@ -24,7 +24,7 @@ qui fournit plusieurs fonctionnalités qui amélioreront votre qualité de vie p
 | Pairing     	| ALT+&         	| Association des personnages aux fenêtres Dofus <br/> _**Nécessaire à l'utilisation de l'auto Switch/Invite**_                                                	|
 | Invite     	| ALT+é         	| Invite tous les personnages dans un groupe  	|
 | Auto Switch	(ON/OFF) | ALT+Q       	| Change de fenêtre automatiquement au tour du personnage                                       	|
-| Auto Skip (ON/OFF) 	| ALT+S         	| Skip automatiquement au tour du personnage <br/> _**Auto Switch doit être activé**_             	|
+| Auto Skip (ON/OFF) 	| ALT+S         	| Skip automatiquement au tour du personnage <br/> _**Auto Switch doit être activé**_          |
 
 Pss : Vous pouvez mettre TAB à la place de F1 , c'est beaucoup plus pratique... voir COMMENT CONFIGURER
 
