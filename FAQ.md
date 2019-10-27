@@ -43,9 +43,9 @@
 > Sinon, ça ne devrait pas poser sur le fonctionnement du programme.
 > Comment est-ce que ce bout de code fait redemarrer Discord ???
 
-StartDofus(){
-      Run % DofusPath
-      Sleep, 200
-}
+  StartDofus(){
+        Run % DofusPath
+        Sleep, 200
+  }
 
 > Si quelqu'un a une idée, je suis preneur ... Bah sinon, je rejette la faute sur Discord ge sui 1 tr bon programr (ou pas)
