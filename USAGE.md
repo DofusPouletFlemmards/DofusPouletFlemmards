@@ -72,7 +72,8 @@ ___
 
 ___
 
-### Auto Switch<a name="autoswitch"></a>
+### Auto Switch<a name="autoswitch"></a> ou en VIDEO >[HOME](https://www.youtube.com/watch?v=C-uG38r7FlI&t=30s)<
+
 
 - Connectez tous vos personnages, lancez un défi et rejoignez avec tout vos personnages
 
