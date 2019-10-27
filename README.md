@@ -26,7 +26,8 @@ qui fournit plusieurs fonctionnalités qui amélioreront votre qualité de vie p
 | Auto Switch	(ON/OFF) | ALT+Q       	| Change de fenêtre automatiquement au tour du personnage                                       	|
 | Auto Skip (ON/OFF) 	| ALT+S         	| Skip automatiquement au tour du personnage <br/> _**Auto Switch doit être activé**_          |
 
-Pss : Vous pouvez mettre **TAB** à la place de **F1** , c'est beaucoup plus pratique... voir COMMENT CONFIGURER
+Pss : Vous pouvez mettre **TAB** à la place de **F1** , c'est beaucoup plus pratique... VOIR [COMMENT CONFIGURER](USAGE.md#les-raccourcis) 
+
 
 ## Instructions d'utilisation
 - VOIR [COMMENT CONFIGURER](USAGE.md) 
