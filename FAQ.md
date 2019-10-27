@@ -7,7 +7,12 @@
 
 > 1.29 et RETRO en 32bit 
 
-#### [2. Mon PC à du mal a tourner X Dofus, puis je faire tourner DofusPouletFlemmards ?](#nr1) ####
+#### [1. DFP, pour quel système d'exploitation ?](#nr1) ####
+
+> Windows seulement, AHK n'existe pas sur AHK
+
+
+#### [3. Mon PC à du mal a tourner X Dofus, puis je faire tourner DofusPouletFlemmards ?](#nr1) ####
 
 > Déconseillé, certaines fonctions ne marcheront pas correctement dans le sens où son comportement sera irrégulier. 
 > Par exemple, si vous avez 8 personnages et que vous utilisez Auto Move seulement 7 personnages bougeront puis parfois 8 bougeront puis 6...    
@@ -19,7 +24,7 @@
 > DofusPouletFlemmards tourne à 0% d'utilisation du CPU et entre 0 à 5% lorsque l'auto switch est activé.    
 >(Plus le délai d'Auto Switch est faible, plus l'utilisation du CPU est élevée) 
 
-#### [3. Où sont stocké les comptes ?](#nr1) ####
+#### [4. Où sont stocké les comptes ?](#nr1) ####
 
 > Au premier lancement du programme, un dossier DofusPourLesFlemmards sera créé dans vos Documents      
 > Le dossier DofusPouletFlemmards contiendra :
