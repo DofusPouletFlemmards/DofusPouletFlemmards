@@ -24,6 +24,11 @@
 > DofusPouletFlemmards tourne à 0% d'utilisation du CPU et entre 0 à 5% lorsque l'auto switch est activé.    
 >(Plus le délai d'Auto Switch est faible, plus l'utilisation du CPU est élevée) 
 
+#### [3. Est-ce que j'ai accès a vos comptes ?](#nr1) ####
+
+> NON !!! 
+> DofusPouletFlemmards simule les fonctions de la souris, saisie du texte et detecte les images (captures d'écran des noms de votre personnage pour l'auto switch) 
+
 #### [4. Où sont stocké les comptes ?](#nr1) ####
 
 > Au premier lancement du programme, un dossier DofusPourLesFlemmards sera créé dans vos Documents      
