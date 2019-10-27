@@ -41,7 +41,7 @@ Pss : Vous pouvez mettre **TAB** à la place de **F1** , c'est beaucoup plus pra
 
 
 ## Vidéo
-<a href="https://www.youtube.com/watch?v=K9sNDSsyJVM" target="_blank">![](https://i.imgur.com/dM4nyeg.png)</a>
+<a href="https://www.youtube.com/watch?v=K9sNDSsyJVM" target="_blank">![](https://i.imgur.com/dM4nyeg.png | width=100)</a>
 
 ## Paiement<a name="Paiement"></a>
 
