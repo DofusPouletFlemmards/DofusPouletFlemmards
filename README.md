@@ -50,7 +50,7 @@ Contactez-moi sur Discord pour procéder au paiement.
 
 > Ne vous faites pas avoir par des imposteurs, veuillez à bien vérifier le numéro d'identifiant sur Discord : #23434
 
-- MOYENS DE PAIEMENT : **Payal** ou en **Kamas**
+- MOYENS DE PAIEMENT : **Paypal** ou en **Kamas**
 
 |  PAYPAL 	|  KAMAS 	|
 |---	|---	|
