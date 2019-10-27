@@ -8,7 +8,7 @@
 ### Les raccourcis<a name="raccourcis"></a>
 
 Vous pouvez modifier les raccourcis par défaut sur DofusPouletFlemmards.
-Il n'est pas possible d'ajouter les fonctions de la souris (Clic, molette) depuis l'interface graphique, il faut éditer le fichier directement.
+Il n'est pas possible d'ajouter les fonctions de la souris (Clic, molette) depuis l'interface DFP, il faut éditer le fichier.
 
 
 - Ouvrir **DofusPouletFlemmards**, catégorie **AUTO**
