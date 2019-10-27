@@ -47,7 +47,7 @@ Pss : Vous pouvez mettre **TAB** à la place de **F1** , c'est beaucoup plus pra
 
 Contactez-moi sur Discord pour procéder au paiement.
   1. Rejoindre le serveur Discord [CLIQUER ICI POUR REJOINDRE](https://discord.gg/B9xSGG2)
-  2. Ensuite, envoyez un message à DofusPouletFlemmards#2343
+  2. Ensuite, envoyez un message privé à DofusPouletFlemmards#2343
   3. Une fois le paiement/kamas reçu, je vous envoie le programme
 
 > Ne vous faites pas avoir par des imposteurs, veuillez à bien vérifier le numéro d'identifiant sur Discord : #23434
