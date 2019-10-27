@@ -7,7 +7,7 @@
 
 > 1.29 et RETRO en 32bit 
 
-#### [1. DofusPouletFlemmards, pour quel système d'exploitation ?](#nr1) ####
+#### [2. DofusPouletFlemmards, pour quel système d'exploitation ?](#nr1) ####
 
 > Windows seulement, AHK n'existe pas sur MAC
 
