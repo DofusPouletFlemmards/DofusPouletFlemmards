@@ -40,7 +40,7 @@
 #### [5. Pourquoi mon discord se redemarre lorsque j'appuie sur Start pour me connecer automatiquement ?](#nr1) ####
 
 > Je ne sais pas ! C'est un problème qui me rend fou, je n'ai jamais rencontré ce problème mais pour certaines personnes ça redemarre.    
-> Sinon, ça ne devrait pas poser sur le fonctionnement du programme... si y a un problème quitter discord avant d'utiliser l'auto log in
+> Sinon, ça ne devrait pas poser sur le fonctionnement du programme... si y a un problème quitter discord avant d'utiliser l'auto log in  
 > I'm sorry ! 
 > Comment est-ce que ce bout de code fait redémarrer Discord ???
 
