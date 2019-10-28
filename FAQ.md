@@ -37,7 +37,7 @@
 > * Un fichier **settings.ini** pour stocker vos configurations ( raccourcis, délais)
 > * Un dossier **screenshot** pour stocker les captures d'écran contenant le nom de vos personnages (pour l'Auto Switch)
 
-#### [5. Pourquoi mon discord se redemarre lorsque j'appuie sur Start pour me connecer automatiquement ?](#nr1) ####
+#### [5. Pourquoi mon discord se redemarre lorsque j'appuie sur Start pour me connecter automatiquement ?](#nr1) ####
 
 > Je ne sais pas ! C'est un problème qui me rend fou, je n'ai jamais rencontré ce problème mais pour certaines personnes ça redemarre.    
 > Sinon, ça ne devrait pas poser de problème sur le fonctionnement d'Auto Log In .. si y a un problème quitter discord avant d'utiliser l'auto log in  
