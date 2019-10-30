@@ -29,6 +29,7 @@ qui fournit plusieurs fonctionnalités qui amélioreront votre qualité de vie p
 | Auto Skip (ON/OFF) 	| ALT+S         	| Skip automatiquement au tour du personnage <br/> _**Auto Switch doit être activé**_          |
 | Auto Cupidité(ON/OFF) 	| ALT+W         	| Explicite <br/> _**Auto Switch doit être activé**_          |
 | Auto Chance(ON/OFF) 	| ALT+X       	| Explicite <br/> _**Auto Switch doit être activé**_          |
+
 Pss : Vous pouvez mettre **TAB** à la place de **F1** , c'est beaucoup plus pratique... VOIR [COMMENT CONFIGURER](USAGE.md#les-raccourcis) 
 
 
