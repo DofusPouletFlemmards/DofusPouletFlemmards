@@ -3,7 +3,7 @@
 # CONFIGURATION
 
 [ [HOME](README.md) ] - [ [SHORTCUTS](#raccourcis) ] - [ [AUTO LOG IN](#autologin) ] - [ [PAIRING](#pairing) ] - [ [AUTO SWITCH](#autoswitch) ] - 
-[ [AUTO READY](#autoready) ] -  [ [AUTO SKIP](#autoskip) ] -  [ [TIPS](#tips) ] 
+[ [AUTO READY](#autoready) ] -  [ [AUTO SKIP](#autoskip) ] - [ [AUTO BUFF(CUPI/CHANCE)](#autobuff) ] - [ [TIPS](#tips) ] 
 
 ## Les raccourcis<a name="raccourcis"></a>
 
@@ -124,6 +124,16 @@ ___
 - Attribuez **Skip Key** à la touche que vous avez pour skip sur Dofus 
 
 ![1](https://i.imgur.com/yigvyog.png)
+
+___
+
+### Auto Buff ( Cupidité / Chance )<a name="autobuff"></a>
+
+- Allez dans "Auto Buff"
+- Configure les positions comme ceci
+- N'oubliez pas de configurer les touches sur le programme et sur Dofus ! 
+
+![1](https://i.imgur.com/zMmBeEF.png)
 
 ___
 
