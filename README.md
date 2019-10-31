@@ -1,6 +1,6 @@
 # DofusPouletFlemmards (AHK)
 
-[ [DISCORD](https://discord.gg/B9xSGG2) ] - [ [COMMENT CONFIGURER](USAGE.md) ] - [ [FAQ](FAQ.md) ] - [ [VIDEO](https://www.youtube.com/watch?v=urj5OiX987E) ] - 
+[ [DISCORD](https://discord.gg/jaYR8ME) ] - [ [COMMENT CONFIGURER](USAGE.md) ] - [ [FAQ](FAQ.md) ] - [ [VIDEO](https://www.youtube.com/watch?v=urj5OiX987E) ] - 
 [ [PAIEMENT](#Paiement) ] - 
 [ [ENGLISH VER.](https://dofuspouletflemmards.github.io/DofusPouletFlemmards-ENG/) ] 
 
