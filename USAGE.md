@@ -53,6 +53,7 @@ Si vous avez une installation autre que celle par défaut
 **Comment ajouter un compte ?**
 - Inscrivez votre identifiant et mot de passe puis appuyez sur le bouton ADD
 - Si vous avez le même mot de passe pour tous vos comptes, vous pouvez éditer directement le fichier en cliquant sur le bouton "Edit File"
+- Sauvegardez le fichier et relancer le programme ( par défaut : ALT + &)
 
 Votre fichier doit être de ce format-là :
 
