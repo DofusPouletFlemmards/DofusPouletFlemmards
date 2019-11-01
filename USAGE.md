@@ -135,13 +135,12 @@ ___
 
 ![1](https://i.imgur.com/zMmBeEF.png)
 
-https://i.imgur.com/AHjjBZZ.png
 ## AUTO Buff ( Coffre Ani. ) <a name="chest"></a>
 
 - Allez dans "Auto Buff" -> CHEST 
 - Configure les positions (X1,Y1) et (X2,Y2) comme ceci
 
-![1](https://i.imgur.com/zMmBeEF.png)
+![1](https://i.imgur.com/AHjjBZZ.png)
 
 - N'oubliez pas de configurer les touches sur le programme et sur Dofus ! 
    * Chest Key : Touche de raccourci correspondant au coffre animé
