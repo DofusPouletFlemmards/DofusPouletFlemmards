@@ -3,7 +3,7 @@
 # CONFIGURATION
 
 [ [HOME](README.md) ] - [ [SHORTCUTS](#raccourcis) ] - [ [AUTO LOG IN](#autologin) ] - [ [PAIRING](#pairing) ] - [ [AUTO SWITCH](#autoswitch) ] - 
-[ [AUTO READY](#autoready) ] -  [ [AUTO SKIP](#autoskip) ] - [ [AUTO BUFF(CUPI/CHANCE)](#autobuff) ] - [ [TIPS](#tips) ] 
+[ [AUTO READY](#autoready) ] -  [ [AUTO SKIP](#autoskip) ] - [ [AUTO BUFF(CUPI/CHANCE)](#autobuff) ] - [ [AUTO BUFF(CHEST)](#chest) - [ [TIPS](#tips) ] 
 
 ## Les raccourcis<a name="raccourcis"></a>
 
@@ -110,7 +110,7 @@ Avec **Impr Ecran**
 
 ___
 
-### Auto Ready<a name="autoready"></a>
+## Auto Ready<a name="autoready"></a>
 
 - Lancez un défi, ou combat
 - Sur DofusPouletFlemmards : Appuyez sur le bouton Ready [(X,Y)] et cliquer sur le bouton Ready de Dofus
@@ -127,13 +127,30 @@ ___
 
 ___
 
-### Auto Buff ( Cupidité / Chance )<a name="autobuff"></a>
+## Auto Buff ( Cupidité / Chance )<a name="autobuff"></a>
 
 - Allez dans "Auto Buff"
 - Configure les positions comme ceci
 - N'oubliez pas de configurer les touches sur le programme et sur Dofus ! 
 
 ![1](https://i.imgur.com/zMmBeEF.png)
+
+https://i.imgur.com/AHjjBZZ.png
+## AUTO Buff ( Coffre Ani. ) <a name="chest"></a>
+
+- Allez dans "Auto Buff" -> CHEST 
+- Configure les positions (X1,Y1) et (X2,Y2) comme ceci
+
+![1](https://i.imgur.com/zMmBeEF.png)
+
+- N'oubliez pas de configurer les touches sur le programme et sur Dofus ! 
+   * Chest Key : Touche de raccourci correspondant au coffre animé
+   * AnySpell Key : Doit être un sort possèdant 1 de portée !! ( CAC/Pelle Animée/Chance/Sac Animée)
+ 
+ 
+- Derniere chose, sur Dofus 
+- Allez dans Option et activez " **Mettre en valeur les cases ciblables** "
+![1](https://i.imgur.com/pPmUlFD.png)
 
 ___
 
