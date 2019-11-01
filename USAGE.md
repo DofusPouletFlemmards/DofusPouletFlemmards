@@ -146,7 +146,6 @@ ___
    * Chest Key : Touche de raccourci correspondant au coffre animé
    * AnySpell Key : Doit être un sort possèdant 1 de portée et qui peut être relancer chaque tour ou soyez sur que vous ne l'utiliserez pas avant le coffre animé !! (CAC/Pelle Animée/Sac Animée etc...)
  
-- Derniere chose, sur Dofus 
 - Allez dans Option et activez " **Mettre en valeur les cases ciblables** "
 ![1](https://i.imgur.com/pPmUlFD.png)
 
