@@ -138,7 +138,7 @@ ___
 ## AUTO Buff ( Coffre Ani. ) <a name="chest"></a>
 
 - Allez dans "Auto Buff" -> CHEST 
-- Configure les positions (X1,Y1) et (X2,Y2) comme ceci
+- Configurez les positions (X1,Y1) et (X2,Y2) comme ceci
 
 ![1](https://i.imgur.com/AHjjBZZ.png)
 
