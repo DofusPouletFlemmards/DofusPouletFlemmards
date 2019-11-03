@@ -5,6 +5,30 @@
 [ [HOME](README.md) ] - [ [SHORTCUTS](#raccourcis) ] - [ [AUTO LOG IN](#autologin) ] - [ [PAIRING](#pairing) ] - [ [AUTO SWITCH](#autoswitch) ] - 
 [ [AUTO READY](#autoready) ] -  [ [AUTO SKIP](#autoskip) ] - [ [AUTO BUFF(CUPI/CHANCE)](#autobuff) ] - [ [AUTO BUFF(CHEST)](#chest) - [ [TIPS](#tips) ] 
 
+## Auto Log In<a name="autologin"></a>
+
+> /!\ Si vous n'utilisez pas l'auto Log In pour vous connectez et que vous utilisez le launcher Ankama      
+>Vérifier que Dofus est en 32bits, DofusPouletFlemmards ne marche pas sur la version 64bit 
+
+Si vous avez une installation autre que celle par défaut
+- Appuyez sur le bouton Start, il vous sera demandé d'ouvrir le fichier Dofus.exe qui est situé dans votre dossier d'installation :
+>...\Ankama\zaap\retro\resources\app.asar.unpacked\retroclient
+
+**Comment ajouter un compte ?**
+- Inscrivez votre identifiant et mot de passe puis appuyez sur le bouton ADD
+- Si vous avez le même mot de passe pour tous vos comptes, vous pouvez éditer directement le fichier en cliquant sur le bouton "Edit File"
+- Sauvegardez le fichier et relancer le programme ( par défaut : ALT + &)
+
+Votre fichier doit être de ce format-là :
+
+>identifiant:mdp   
+>identifiant:mdp   
+>identifiant:mdp  
+
+_**(OPTIONNEL)**_ Pour faciliter la tâche, cochez " Keep Gui on top" cela permettra de garder DofusPouletFlemmards toujours au-dessus de n'importe quelle fenêtre 
+
+___
+
 ## Les raccourcis<a name="raccourcis"></a>
 
 Vous pouvez modifier les raccourcis par défaut sur DofusPouletFlemmards.
@@ -41,29 +65,6 @@ https://www.autohotkey.com/docs/KeyList.htm#mouse-general
 Vous pouvez utilisez CTRL + Clic si et seulement si vous comptez utiliser l'auto CtrlClicker ce que je fais personnellement (par défaut : Alt+C)
 
 
-## Auto Log In<a name="autologin"></a>
-
-> /!\ Si vous n'utilisez pas l'auto Log In pour vous connectez et que vous utilisez le launcher Ankama      
->Vérifier que Dofus est en 32bits, DofusPouletFlemmards ne marche pas sur la version 64bit 
-
-Si vous avez une installation autre que celle par défaut
-- Appuyez sur le bouton Start, il vous sera demandé d'ouvrir le fichier Dofus.exe qui est situé dans votre dossier d'installation :
->...\Ankama\zaap\retro\resources\app.asar.unpacked\retroclient
-
-**Comment ajouter un compte ?**
-- Inscrivez votre identifiant et mot de passe puis appuyez sur le bouton ADD
-- Si vous avez le même mot de passe pour tous vos comptes, vous pouvez éditer directement le fichier en cliquant sur le bouton "Edit File"
-- Sauvegardez le fichier et relancer le programme ( par défaut : ALT + &)
-
-Votre fichier doit être de ce format-là :
-
->identifiant:mdp   
->identifiant:mdp   
->identifiant:mdp  
-
-_**(OPTIONNEL)**_ Pour faciliter la tâche, cochez " Keep Gui on top" cela permettra de garder DofusPouletFlemmards toujours au-dessus de n'importe quelle fenêtre 
-
-___
 
 ## Pairing -> IMPORTANT si vous souhaitez utiliser AutoSwitch et Invite <a name="pairing"></a>
 
