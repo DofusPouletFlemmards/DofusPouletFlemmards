@@ -83,7 +83,7 @@ ___
 **1re étape :**
 - Sur DofusPouletFlemmards : Cliquer sur le bouton (X1,Y1) et cliquer en haut à gauche du nom de votre personnage affiché sur l'illustration en début tour.
 - Cliquer sur le bouton (X2,Y2) et cliquer en bas à droite du nom de votre personnage affiché sur l'illustration en début de tour.
-
+- A FAIRE QU'UNE SEULE FOIS !
 ![1](https://i.imgur.com/Qxqme01.png)
 
 **2e étape :** 
