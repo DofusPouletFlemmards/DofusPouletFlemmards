@@ -2,7 +2,7 @@
 
 # CONFIGURATION
 
-[ [HOME](README.md) ] - [ [SHORTCUTS](#raccourcis) ] - [ [AUTO LOG IN](#autologin) ] - [ [PAIRING](#pairing) ] - [ [AUTO SWITCH](#autoswitch) ] - 
+[ [HOME](README.md) ] - [ [AUTO LOG IN](#autologin) ] - [ [SHORTCUTS](#raccourcis) ]  - [ [PAIRING](#pairing) ] - [ [AUTO SWITCH](#autoswitch) ] - 
 [ [AUTO READY](#autoready) ] -  [ [AUTO SKIP](#autoskip) ] - [ [AUTO BUFF(CUPI/CHANCE)](#autobuff) ] - [ [AUTO BUFF(CHEST)](#chest) - [ [TIPS](#tips) ] 
 
 ## Auto Log In<a name="autologin"></a>
