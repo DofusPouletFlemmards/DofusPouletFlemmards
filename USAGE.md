@@ -25,7 +25,6 @@ Votre fichier doit être de ce format-là :
 >identifiant:mdp   
 >identifiant:mdp  
 
-_**(OPTIONNEL)**_ Pour faciliter la tâche, cochez " Keep Gui on top" cela permettra de garder DofusPouletFlemmards toujours au-dessus de n'importe quelle fenêtre 
 
 ___
 
@@ -67,6 +66,8 @@ Vous pouvez utilisez CTRL + Clic si et seulement si vous comptez utiliser l'auto
 
 
 ## Pairing -> IMPORTANT si vous souhaitez utiliser AutoSwitch et Invite <a name="pairing"></a>
+
+_**(OPTIONNEL)**_ Pour faciliter la tâche, cochez " Keep Gui on top" cela permettra de garder DofusPouletFlemmards toujours au-dessus de n'importe quelle fenêtre 
 
 - Sur DofusPouletFlemmards : Appuyez sur le bouton Chat Pos [(X,Y)] et cliquer sur n'importe quel endroit du chat Dofus
 
