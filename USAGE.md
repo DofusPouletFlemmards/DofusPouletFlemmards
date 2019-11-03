@@ -97,6 +97,9 @@ Avec **Win+Shift+S**
 - Puis cliquer sur "rogner" ou "crop"
 - Enregistrer l'image dans **\Documents\DofusPourLesFlemmards\Screenshots**, le nom de l'image doit être **identique** au nom de votre personnage. 
 - Répéter la manipulation pour tous les personnages
+- Votre capture doit ressembler à ceci :
+![1](https://i.imgur.com/eBwsuZX.png)
+
 
 ___
 
