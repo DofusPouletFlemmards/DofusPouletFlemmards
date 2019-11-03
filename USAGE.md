@@ -3,7 +3,7 @@
 # CONFIGURATION
 
 [ [HOME](README.md) ] - [ [AUTO LOG IN](#autologin) ] - [ [SHORTCUTS](#raccourcis) ]  - [ [PAIRING](#pairing) ] - [ [AUTO SWITCH](#autoswitch) ] - 
-[ [AUTO READY](#autoready) ] -  [ [AUTO SKIP](#autoskip) ] - [ [AUTO BUFF(CUPI/CHANCE)](#autobuff) ] - [ [AUTO BUFF(COFFRE ANIME)](#chest)] - [ [TIPS](#tips) ] 
+[ [AUTO READY](#autoready) ] -  [ [AUTO SKIP](#autoskip) ] - [ [AUTO BUFF(CUPI/CHANCE)](#autobuff) ] - [ [AUTO BUFF - COFFRE ANIME ](#chest)] - [ [TIPS](#tips) ] 
 
 ## Auto Log In<a name="autologin"></a>
 
