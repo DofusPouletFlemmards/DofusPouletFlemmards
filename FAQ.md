@@ -51,4 +51,4 @@
 #### [8. Pourquoi mon discord se redemarre lorsque j'appuie sur Start pour me connecter automatiquement ?](#nr1) ####
 
 > Ce n'est pas un problème avec mon programme, mais Dofus/Discord.
->Si vous avez ce problème et que vous ne me croyez pas, essayez de lancer Dofus manuellement plusieurs fois d'affiler, votre Discord va se redémarrer.
+> Si vous avez ce problème et que vous ne me croyez pas, essayez de lancer Dofus manuellement plusieurs fois d'affiler, votre Discord va se redémarrer.
