@@ -67,9 +67,8 @@ Vous pouvez utilisez CTRL + Clic si et seulement si vous comptez utiliser l'auto
 
 ## Pairing -> IMPORTANT si vous souhaitez utiliser AutoSwitch et Invite <a name="pairing"></a>
 
-_**(OPTIONNEL)**_ Pour faciliter la tâche, cochez " Keep Gui on top" cela permettra de garder DofusPouletFlemmards toujours au-dessus de n'importe quelle fenêtre 
-
 - Sur DofusPouletFlemmards : Appuyez sur le bouton Chat Pos [(X,Y)] et cliquer sur n'importe quel endroit du chat Dofus
+- Vous devez avoir le chat VERT activé sur tous les personnages.
 
 ![1](https://i.imgur.com/WabGtYn.png)
 
@@ -78,9 +77,13 @@ ___
 ## Auto Switch<a name="autoswitch"></a> ou en VIDEO >[CLICK ICI !](https://www.youtube.com/watch?v=C-uG38r7FlI)<
 
 
+
 - Connectez tous vos personnages, lancez un défi et rejoignez avec tout vos personnages
 
 **1re étape :**
+
+_**(OPTIONNEL)**_ Pour configurer les positions (X1,Y1) et (X2,Y2) , cochez " Keep Gui on top" cela permettra de garder DofusPouletFlemmards toujours au-dessus de n'importe quelle fenêtre.
+
 - Sur DofusPouletFlemmards : Cliquer sur le bouton (X1,Y1) et cliquer en haut à gauche du nom de votre personnage affiché sur l'illustration en début tour.
 - Cliquer sur le bouton (X2,Y2) et cliquer en bas à droite du nom de votre personnage affiché sur l'illustration en début de tour.
 - A FAIRE QU'UNE SEULE FOIS !
