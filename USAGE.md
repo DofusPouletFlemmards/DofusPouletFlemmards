@@ -67,6 +67,18 @@ Vous pouvez utilisez CTRL + Clic si et seulement si vous comptez utiliser l'auto
 
 ## Pairing -> IMPORTANT si vous souhaitez utiliser AutoSwitch et Invite <a name="pairing"></a>
 
+Il est possible de faire Pairing de deux manières : 
+
+**1re façon - Pairing automatique via l'auto log in :**
+
+- Sur DofusPouletFlemmards, dans "Accounts"
+- Appuyez sur le bouton "Link Char" situé tout en bas
+- Saissisez le nom de vos personnages correspond au compte
+- Appuyez sur le bouton save
+
+![1](https://i.imgur.com/5tynqq2.png)
+
+**2ème façon - Pairing semi automatique en jeu :**
 - Sur DofusPouletFlemmards : Appuyez sur le bouton Chat Pos [(X,Y)] et cliquer sur n'importe quel endroit du chat Dofus
 - Vous devez avoir le chat VERT activé sur tous les personnages.
 
