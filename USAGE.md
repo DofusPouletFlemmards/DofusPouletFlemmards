@@ -14,6 +14,8 @@ Si vous avez une installation autre que celle par défaut
 - Appuyez sur le bouton Start, il vous sera demandé d'ouvrir le fichier Dofus.exe qui est situé dans votre dossier d'installation :
 >...\Ankama\zaap\retro\resources\app.asar.unpacked\retroclient
 
+- EHH T'AS BIEN TOUT LU J'ESPERE??? ATTENTION A LA GIRAFE
+
 **Comment ajouter un compte ?**
 - Inscrivez votre identifiant et mot de passe puis appuyez sur le bouton ADD
 - Si vous avez le même mot de passe pour tous vos comptes, vous pouvez éditer directement le fichier en cliquant sur le bouton "Edit File"
@@ -25,7 +27,7 @@ Votre fichier doit être de ce format-là :
 >identifiant:mdp   
 >identifiant:mdp  
 
-
+- EHH T'AS BIEN TOUT LU J'ESPERE??? ATTENTION A LA GIRAFE
 ___
 
 ## Les raccourcis<a name="raccourcis"></a>
@@ -38,6 +40,7 @@ Il n'est pas possible d'ajouter les fonctions de la souris (Clic, molette) ou la
 - **EDIT FILE**
 - Rechercher la fonction que vous souhaitez changer dans [AUTO] et attribuer la combinaison de touche que vous voulez
 - Et relancer le programme ( par défaut : Alt + & ou quitter et relancer)
+- EHH T'AS BIEN TOUT LU J'ESPERE??? ATTENTION A LA GIRAFE
 
 **Exemple AutoMoveKey**
 
@@ -63,7 +66,7 @@ https://www.autohotkey.com/docs/KeyList.htm#mouse-general
 > /!\ Je déconseille CTRL + Clic comme raccourci, sur Dofus Ctrl+Clic vous permet de transférer un stack d'item.
 Vous pouvez utilisez CTRL + Clic si et seulement si vous comptez utiliser l'auto CtrlClicker ce que je fais personnellement (par défaut : Alt+C)
 
-
+- - EHH T'AS BIEN TOUT LU J'ESPERE??? ATTENTION A LA GIRAFE
 
 ## Pairing -> IMPORTANT si vous souhaitez utiliser AutoSwitch et Invite <a name="pairing"></a>
 
@@ -75,12 +78,14 @@ Il est possible de faire Pairing de deux manières :
 - Appuyez sur le bouton "Link Char" situé tout en bas
 - Saissisez le nom de vos personnages correspond au compte
 - Appuyez sur le bouton save
+- EHH T'AS BIEN TOUT LU J'ESPERE??? ATTENTION A LA GIRAFE
 
 ![1](https://i.imgur.com/5tynqq2.png)
 
 **2ème façon - Pairing semi automatique en jeu :**
 - Sur DofusPouletFlemmards : Appuyez sur le bouton Chat Pos [(X,Y)] et cliquer sur n'importe quel endroit du chat Dofus
 - Vous devez avoir le chat VERT activé sur tous les personnages.
+- EHH T'AS BIEN TOUT LU J'ESPERE??? ATTENTION A LA GIRAFE
 
 ![1](https://i.imgur.com/WabGtYn.png)
 
@@ -88,9 +93,8 @@ ___
 
 ## Auto Switch<a name="autoswitch"></a> ou en VIDEO >[CLICK ICI !](https://www.youtube.com/watch?v=C-uG38r7FlI)<
 
-
-
 - Connectez tous vos personnages, lancez un défi et rejoignez avec tout vos personnages
+- EHH T'AS BIEN TOUT LU J'ESPERE??? ATTENTION A LA GIRAFE
 
 **1re étape :**
 
@@ -99,6 +103,8 @@ _**(OPTIONNEL)**_ Pour configurer les positions (X1,Y1) et (X2,Y2) , cochez " Ke
 - Sur DofusPouletFlemmards : Cliquer sur le bouton (X1,Y1) et cliquer en haut à gauche du nom de votre personnage affiché sur l'illustration en début tour.
 - Cliquer sur le bouton (X2,Y2) et cliquer en bas à droite du nom de votre personnage affiché sur l'illustration en début de tour.
 - A FAIRE QU'UNE SEULE FOIS !
+- EHH T'AS BIEN TOUT LU J'ESPERE??? ATTENTION A LA GIRAFE
+
 ![1](https://i.imgur.com/Qxqme01.png)
 
 **2e étape :** 
@@ -127,6 +133,7 @@ Avec **Impr Ecran**
 - Puis sélectionnez la zone contenant le nom avec la forme rectangulaire et cliquez sur "rogner" ou "crop"
 - Enregistrer l'image dans **\Documents\DofusPourLesFlemmards\Screenshots**, le nom de l'image doit être **identique** au nom de votre personnage. 
 - Répeter la manipulation pour tous les personnages
+- EHH T'AS BIEN TOUT LU J'ESPERE??? ATTENTION A LA GIRAFE
 
 ___
 
@@ -134,6 +141,7 @@ ___
 
 - Lancez un défi, ou combat
 - Sur DofusPouletFlemmards : Appuyez sur le bouton Ready [(X,Y)] et cliquer sur le bouton Ready de Dofus
+- EHH T'AS BIEN TOUT LU J'ESPERE??? ATTENTION A LA GIRAFE
 
 ![1](https://i.imgur.com/ue8pKTs.png)
 
@@ -141,7 +149,8 @@ ___
 
 ### Auto Skip<a name="autoskip"></a>
 
-- Attribuez **Skip Key** à la touche que vous avez pour skip sur Dofus 
+- Attribuez **Skip Key** à la touche que vous avez pour skip sur Dofus
+- EHH T'AS BIEN TOUT LU J'ESPERE??? ATTENTION A LA GIRAFE
 
 ![1](https://i.imgur.com/yigvyog.png)
 
@@ -151,7 +160,8 @@ ___
 
 - Allez dans "Auto Buff"
 - Configure les positions comme ceci
-- N'oubliez pas de configurer les touches sur le programme et sur Dofus ! 
+- N'oubliez pas de configurer les touches sur le programme et sur Dofus !
+- EHH T'AS BIEN TOUT LU J'ESPERE??? ATTENTION A LA GIRAFE
 
 ![1](https://i.imgur.com/zMmBeEF.png)
 
@@ -165,8 +175,11 @@ ___
 - N'oubliez pas de configurer les touches sur le programme et sur Dofus ! 
    * Chest Key : Touche de raccourci correspondant au coffre animé
    * AnySpell Key : Doit être un sort possèdant 1 de portée et qui peut être relancer chaque tour ou soyez sur que vous ne l'utiliserez pas avant le coffre animé !! (CAC/Pelle Animée/Sac Animée etc...)
+   
  
 - Allez dans Option et activez " **Mettre en valeur les cases ciblables** "
+- EHH T'AS BIEN TOUT LU J'ESPERE??? ATTENTION A LA GIRAFE
+
 ![1](https://i.imgur.com/pPmUlFD.png)
 
 ___
@@ -178,6 +191,7 @@ ___
 - Associez la touche que vous souhaitez à un personnage
 - (OPTIONNEL) Bip sonore lors du tour du personnage.
 - Appuyez sur Save
+- EHH T'AS BIEN TOUT LU J'ESPERE??? ATTENTION A LA GIRAFE
 
 ![1](https://i.imgur.com/k4BafzK.png)
 
