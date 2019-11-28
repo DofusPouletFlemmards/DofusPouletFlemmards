@@ -3,7 +3,7 @@
 # CONFIGURATION
 
 [ [HOME](README.md) ] - [ [AUTO LOG IN](#autologin) ] - [ [SHORTCUTS](#raccourcis) ]  - [ [PAIRING](#pairing) ] - [ [AUTO SWITCH](#autoswitch) ] - 
-[ [AUTO READY](#autoready) ] -  [ [AUTO SKIP](#autoskip) ] - [ [AUTO BUFF(CUPI/CHANCE)](#autobuff) ] - [ [AUTO BUFF - COFFRE ANIME ](#chest)] - [ [TIPS](#tips) ] 
+[ [AUTO READY](#autoready) ] -  [ [AUTO SKIP](#autoskip) ] - [ [AUTO BUFF(CUPI/CHANCE)](#autobuff) ] - [ [AUTO BUFF - COFFRE ANIME ](#chest)] - [ [1 touche 1 personnage + Bip sonore](#onekey) ] - [ [TIPS](#tips) ] 
 
 ## Auto Log In<a name="autologin"></a>
 
@@ -171,6 +171,17 @@ ___
 
 ___
 
+## 1 touche 1 personnage + Bip sonore <a name="onekey"></a>
+
+- Une fois le pairing effectué
+- Cliquez sur le bouton "Chicken Factory"
+- Associez la touche que vous souhaitez à un personnage
+- (OPTIONNEL) Bip sonore lors du tour du personnage.
+- Appuyez sur Save
+
+![1](https://i.imgur.com/k4BafzK.png)
+
+___
 ### L'HIVER APPROCHE...  <a name="tips"></a>
 ### COMMENT GARDER UNE MAIN AU CHAUD SOUS LES FESSES TOUT EN JOUANT HIHI 
 
