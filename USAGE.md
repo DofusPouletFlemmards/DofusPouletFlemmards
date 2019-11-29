@@ -206,7 +206,7 @@ ___
 ![1](https://i.imgur.com/t8eOmoL.png)
 
 - Acceptez l'échange et 
-- Configurez la position AcceptPos(X,Y) qui correspond au bouton accepter comme sur la capture d'écran
+- Configurez la position AcceptPos(X,Y) qui correspond au bouton accepter comme sur la capture d'écran (LE POINT BLEU)
 - NE PRENEZ PAS UN POINT CONTENANT DU BLANC DU MOT ACCEPTER, ONLY ORANGE ONLY ORANGE
 
 ![1](https://i.imgur.com/9qI4um0.png)
