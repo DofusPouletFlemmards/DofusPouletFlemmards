@@ -3,7 +3,7 @@
 # CONFIGURATION
 
 [ [HOME](README.md) ] - [ [AUTO LOG IN](#autologin) ] - [ [SHORTCUTS](#raccourcis) ]  - [ [PAIRING](#pairing) ] - [ [AUTO SWITCH](#autoswitch) ] - 
-[ [AUTO READY](#autoready) ] -  [ [AUTO SKIP](#autoskip) ] - [ [AUTO BUFF(CUPI/CHANCE)](#autobuff) ] - [ [AUTO BUFF - COFFRE ANIME ](#chest)] - [ [1 touche 1 personnage + Bip sonore](#onekey) ] - [ [TIPS](#tips) ] 
+[ [AUTO READY](#autoready) ] -  [ [AUTO SKIP](#autoskip) ] - [ [AUTO BUFF(CUPI/CHANCE)](#autobuff) ] - [ [AUTO BUFF - COFFRE ANIME ](#chest)] - [ [1 touche 1 personnage + Bip sonore](#onekey) ] - [ [AUTO TRADE](#trade) ] - [ [NO LOOT](#loot) ] - [ [TIPS](#tips) ] 
 
 ## Auto Log In<a name="autologin"></a>
 
@@ -194,6 +194,48 @@ ___
 - EHH T'AS BIEN TOUT LU J'ESPERE??? ATTENTION A LA GIRAFE
 
 ![1](https://i.imgur.com/k4BafzK.png)
+
+___
+
+## Auto Trade <a name="trade"></a>
+
+- Lancez échange avec un de vos personnages et n'acceptez PAS l'échange 
+- Sur DofusPouletFlemmards, dans "Auto 2"
+- Configurez les positions NamePos(X1,Y1) et NamePos 2(X2,Y2) comme sur la capture d'écran
+
+![1](https://i.imgur.com/t8eOmoL.png)
+
+- Acceptez l'échange et 
+- Configurez la position AcceptPos(X,Y) qui correspond au bouton accepter comme sur la capture d'écran
+- NE PRENEZ PAS UN POINT CONTENANT DU BLANC DU MOT ACCEPTER, ONLY ORANGE ONLY ORANGE
+
+![1](https://i.imgur.com/9qI4um0.png)
+
+- ENSUITE
+- Prenez une capture d'écran du nom du personnage ( touche Windows + écrivez "Outil Capture d'écran" pour ouvrir l'outil
+c'est plus facile et plus rapide que impr écran)
+- (SI VOUS UTILISEZ PAINT) Selectionnez la zone contenant le nom du personnage et rognez 
+- Enregistrer l'image dans **\Documents\DofusPourLesFlemmards\Screenshots-ECHANGE**, le nom de l'image doit être **IDENTIQUE** au nom de votre personnage. 
+- EHH T'AS BIEN TOUT LU J'ESPERE??? ATTENTION A LA GIRAFE
+
+![1](https://i.imgur.com/jFwNwFS.png)
+
+___
+
+## Auto No Loot <a name="loot"></a>
+
+- Lancez un défi avec un de vos personnages puis abandonnez pour obtenir le résultat de combat et ne FERMEZ pas cette fenetre 
+- Sur DofusPouletFlemmards, dans "Auto 2"
+- Configurez les positions EF.Ind Pos (X1,Y1) et EF.Ind Pos 2(X2,Y2) comme sur la capture d'écran
+![1](https://i.imgur.com/e9xBWJV.png)
+- ENSUITE
+- Prenez une capture d'écran du mot "PERDANTS"( touche Windows + écrivez "Outil Capture d'écran" pour ouvrir l'outil
+c'est plus facile et plus rapide que impr écran)
+![1](https://i.imgur.com/EqtYTJT.png)
+- Selectionnez la zone contenant le mot "PERDANTS" et rognez (SI VOUS UTILISEZ PAINT)
+- Enregistrer l'image dans **\Documents\DofusPourLesFlemmards\Screenshots-ENDGAME**, le nom de l'image doit être **EndFightIndicator** 
+- EHH T'AS BIEN TOUT LU J'ESPERE??? ATTENTION A LA GIRAFE
+
 
 ___
 ### L'HIVER APPROCHE...  <a name="tips"></a>
