@@ -209,6 +209,10 @@ ___
 
 - Prenez une capture d'écran du nom du personnage ( touche Windows + écrivez "Outil Capture d'écran" pour ouvrir l'outil
 c'est plus facile et plus rapide que impr écran)
+
+![1](https://i.imgur.com/GrB9JeG.png)
+
+
 - (SI VOUS UTILISEZ PAINT) Selectionnez la zone contenant le nom du personnage et rognez 
 - Enregistrer l'image dans **\Documents\DofusPourLesFlemmards\Screenshots-ECHANGE**, le nom de l'image doit être **IDENTIQUE** au nom de votre personnage. 
 ![1](https://i.imgur.com/jFwNwFS.png)
