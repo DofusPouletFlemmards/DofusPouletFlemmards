@@ -207,20 +207,23 @@ ___
 
 ![1](https://i.imgur.com/t8eOmoL.png)
 
+- Prenez une capture d'écran du nom du personnage ( touche Windows + écrivez "Outil Capture d'écran" pour ouvrir l'outil
+c'est plus facile et plus rapide que impr écran)
+- (SI VOUS UTILISEZ PAINT) Selectionnez la zone contenant le nom du personnage et rognez 
+- Enregistrer l'image dans **\Documents\DofusPourLesFlemmards\Screenshots-ECHANGE**, le nom de l'image doit être **IDENTIQUE** au nom de votre personnage. 
+![1](https://i.imgur.com/jFwNwFS.png)
+
+ENSUITE 
+
 - Acceptez l'échange et 
 - Configurez la position AcceptPos(X,Y) qui correspond au bouton accepter comme sur la capture d'écran (LE POINT BLEU)
 - NE PRENEZ PAS UN POINT CONTENANT DU BLANC DU MOT ACCEPTER, ONLY ORANGE ONLY ORANGE
 
 ![1](https://i.imgur.com/9qI4um0.png)
 
-- ENSUITE
-- Prenez une capture d'écran du nom du personnage ( touche Windows + écrivez "Outil Capture d'écran" pour ouvrir l'outil
-c'est plus facile et plus rapide que impr écran)
-- (SI VOUS UTILISEZ PAINT) Selectionnez la zone contenant le nom du personnage et rognez 
-- Enregistrer l'image dans **\Documents\DofusPourLesFlemmards\Screenshots-ECHANGE**, le nom de l'image doit être **IDENTIQUE** au nom de votre personnage. 
 - EHH T'AS BIEN TOUT LU J'ESPERE??? ATTENTION A LA GIRAFE
 
-![1](https://i.imgur.com/jFwNwFS.png)
+
 
 ___
 
