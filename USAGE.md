@@ -199,6 +199,8 @@ ___
 
 ## Auto Trade <a name="trade"></a>
 
+/!\ IL FAUT ACTIVER L'AUTO SWITCH POUR CA MARCHE
+
 - Lancez échange avec un de vos personnages et n'acceptez PAS l'échange 
 - Sur DofusPouletFlemmards, dans "Auto 2"
 - Configurez les positions NamePos(X1,Y1) et NamePos 2(X2,Y2) comme sur la capture d'écran
@@ -223,6 +225,8 @@ c'est plus facile et plus rapide que impr écran)
 ___
 
 ## Auto No Loot <a name="loot"></a>
+
+/!\ IL FAUT ACTIVER L'AUTO SWITCH POUR CA MARCHE
 
 - Lancez un défi avec un de vos personnages puis abandonnez pour obtenir le résultat de combat et ne FERMEZ pas cette fenetre 
 - Sur DofusPouletFlemmards, dans "Auto 2"
