@@ -239,6 +239,7 @@ ___
 - Lancez un défi avec un de vos personnages puis abandonnez pour obtenir le résultat de combat et ne FERMEZ pas cette fenetre 
 - Sur DofusPouletFlemmards, dans "Auto 2"
 - Configurez la position EF.Ind Pos (X1,Y1) comme sur la capture d'écran ( le POINT BLEU situé entre l'icone de l'inventaire et la géoposition ) 
+
 ![1](https://i.imgur.com/9XX7Er5.png)
 
 
