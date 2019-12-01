@@ -238,15 +238,8 @@ ___
 
 - Lancez un défi avec un de vos personnages puis abandonnez pour obtenir le résultat de combat et ne FERMEZ pas cette fenetre 
 - Sur DofusPouletFlemmards, dans "Auto 2"
-- Configurez les positions EF.Ind Pos (X1,Y1) et EF.Ind Pos 2(X2,Y2) comme sur la capture d'écran
-![1](https://i.imgur.com/e9xBWJV.png)
-- ENSUITE
-- Prenez une capture d'écran du mot "PERDANTS"( touche Windows + écrivez "Outil Capture d'écran" pour ouvrir l'outil
-c'est plus facile et plus rapide que impr écran)
-![1](https://i.imgur.com/EqtYTJT.png)
-- Selectionnez la zone contenant le mot "PERDANTS" et rognez (SI VOUS UTILISEZ PAINT)
-- Enregistrer l'image dans **\Documents\DofusPourLesFlemmards\Screenshots-ENDGAME**, le nom de l'image doit être **EndFightIndicator** 
-- EHH T'AS BIEN TOUT LU J'ESPERE??? ATTENTION A LA GIRAFE
+- Configurez la position EF.Ind Pos (X1,Y1) comme sur la capture d'écran ( le POINT BLEU situé entre l'icone de l'inventaire et la géoposition ) 
+![1](https://i.imgur.com/9XX7Er5.png)
 
 
 ___
