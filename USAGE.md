@@ -221,6 +221,7 @@ ENSUITE
 
 - Acceptez l'échange et 
 - Configurez la position AcceptPos(X,Y) qui correspond au bouton accepter comme sur la capture d'écran (LE POINT BLEU)
+- Il faut positionner la souris sur le bouton Accepter et appuyer sur la touche "S" comme Serpent
 - NE PRENEZ PAS UN POINT CONTENANT DU BLANC DU MOT ACCEPTER, ONLY ORANGE ONLY ORANGE
 
 ![1](https://i.imgur.com/9qI4um0.png)
